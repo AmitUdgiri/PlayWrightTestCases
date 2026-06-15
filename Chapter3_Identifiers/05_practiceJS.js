@@ -3,7 +3,7 @@ var name = "Pooja";
 // camelCase
 var firstName = "Pooja";
 var lastName = "Udgiri";
-var userAge = 30;
+var userAge = 26;
 var totalAmount = 1500.75;
 
 // PascalCase
