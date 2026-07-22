@@ -11,4 +11,4 @@ class APIPage extends BaseTest {
 }
 
 let test = new APIPage();
-test.setup();
+test.setup(); 
